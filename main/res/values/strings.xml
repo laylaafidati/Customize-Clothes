@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">XYZ Clothes Store</string>
+    <string name="pickType" />
+    <string name="pickColor" />
+    <string name="pickSize" />
+</resources>
